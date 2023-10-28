@@ -2534,7 +2534,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   background-color: #f2f2f2;
   padding-top: 6rem;
   padding-bottom: 7.2rem;
-  height: calc(100% - 128px)
 }
 
 .s-content--white {
@@ -2822,7 +2821,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 footer {
   font-size: 1.5rem;
-  height: 50px;
+  line-height: 2;
   color: rgba(255, 255, 255, 0.5);
 }
 
