@@ -1,0 +1,14 @@
+---
+title: "Jonas Boeschemeier"
+image: files/photo.jpg
+about: 
+  template: solana
+  image-shape: round
+  image-width: 15rem
+---
+
+I am a PhD candidate in Energy Economics at the <a href="https://www.ep.mgt.tum.de/cem/home/" target="_blank">Center for Energy Markets</a> at the <a href="https://www.mgt.tum.de/" target="_blank">Technical University of Munich</a>. I study electricity market design during the energy transition with a specific focus on locational and real-time pricing. Previously, I completed my undergraduate degree at <a href="https://www.maastrichtuniversity.nl/" target="_blank">Maastricht University</a> and an MPhil in Economics at the <a href="https://tinbergen.nl/" target="_blank">Tinbergen Institute</a> in Amsterdam.
+
+Overall, my research interests lie in the field of empirical IO applied to energy and environmental economics. Other interests include industrial decarbonisation, climate policy and international economics. 
+
+Feel free to reach out at: jonas.boeschemeier[at]tum.de

@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+anchor-sections: false
+---
+
+#### Tinbergen Institute
+- **2023** Macroeconomics I (graduate, MPhil)
+
+#### Maastricht University
+- **2020** Quantitative Methods II (undergraduate, B.Sc.)
+- **2019** Quantitative Methods I (undergraduate, B.Sc.)

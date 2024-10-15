@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jonas Boeschemeier"
+  favicon: "/files/favicon-32x32.png"
+  search: false
+
+  navbar:
+    left:
+      - text: Home  
+        href: index.qmd
+      - research.qmd
+      - teaching.qmd
+      - cv.qmd
+    
+    right:
+      - icon: envelope-at
+        href: mailto:jonas.boeschemeier@tum.de
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jonas-boeschemeier/
+        target: _blank
+      - icon: twitter
+        href: https://x.com/JBoeschemeier
+        target: _blank
+      - icon: google
+        href: https://scholar.google.com/citations?user=fhbQRDkAAAAJ&hl=en&oi=ao 
+        target: _blank
+
+  page-footer: 
+    left:
+      - icon: c-circle
+        text: 2024 Jonas Boeschemeier
+
+format:
+  html:
+    theme:
+      light: simplex
+      dark: [simplex, simplex_dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+
+
+
