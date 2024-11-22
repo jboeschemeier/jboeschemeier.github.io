@@ -5,7 +5,10 @@ project:
 website:
   title: "Jonas Boeschemeier"
   favicon: "/files/favicon-32x32.png"
-  search: false
+  search: true
+  google-analytics: 
+    tracking-id: "G-94L9VXREVR"
+    storage: none
 
   navbar:
     left:
