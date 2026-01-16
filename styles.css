@@ -1,1 +1,25 @@
 /* css styles */
+
+a {
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline; /* Optional: underline only on hover/focus */
+}
+
+summary h3 {
+  display: inline-block;
+}
+
+/* Style for abstract details */
+details > p {
+  font-size: 0.9em; /* Smaller font size for abstract text */
+  margin-bottom: 2rem; /* Increase distance after abstract */
+}
+
+/* Ensure the summary itself (the word "Abstract") also has some spacing if needed, 
+   but the margin-bottom on the p tag handles the space after the content. 
+   If you want space even when closed, apply to the details tag. */
+details {
+  margin-bottom: 1.5rem;
+}
